@@ -1,11 +1,11 @@
 # Site settings
 author: Nina Angelo
-title: 
+title: Why I decided to learn Software Engineering
 header-img: img/home-bg.png
 email: ninacelie@gmail.com
 copyright_name: Nina Angelo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the reasons why
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Ninacelie
